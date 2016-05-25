@@ -23,7 +23,7 @@ An implementation of a classic river-crossing puzzle.
 ## Install
 wolf_n_lamb.pde をProcessing開発環境で開き，実行してください。
 
-Processing 3 では，minim ライブラリを手で追加する必要があります (Sketch → Import Library... → Add Library... → minimを検索) 。  
+Processing 3 では，minim ライブラリを手で追加する必要があります (「スケッチ」メニューの「ライブラリをインポート...」を選んでください) 。  
 On Processing 3, you have to add the Minim library by yourself (Select "Import Library..." in the "Sketch" menu).
 
 自動求解機能 (Auto mode) を使う場合は，予めディレクトリ code にて ant を実行し，code/Solver.jar を生成してください。
