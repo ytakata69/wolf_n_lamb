@@ -1,5 +1,9 @@
 # Wolfs & Lambs
-An implementation of a classic river-crossing puzzle.
+
+<a href="https://www.youtube.com/watch?v=zvdJuO54wqA"><img
+   src="http://img.youtube.com/vi/zvdJuO54wqA/mqdefault.jpg" width="320" alt="Demo movie of this program"></a>
+
+A program for playing a classic river-crossing puzzle, implemented in [Processing](https://www.processing.org).
 
 ## ひつじとおおかみ
 ひつじ3匹とおおかみ3匹が小舟で対岸に渡ります。
@@ -21,14 +25,20 @@ An implementation of a classic river-crossing puzzle.
     *  ゲームをクリアした後，もう一度遊ぶときも，Resetをクリックしてください。
 
 ## Install
-wolf_n_lamb.pde をProcessing開発環境で開き，実行してください。
 
-Processing 3 では，minim ライブラリを手で追加する必要があります (「スケッチ」メニューの「ライブラリをインポート...」を選んでください) 。  
+Open `wolf_n_lamb.pde` on the Processing Development Environment; then run it.
+
 On Processing 3, you have to add the Minim library by yourself (Select "Import Library..." in the "Sketch" menu).
 
-自動求解機能 (Auto mode) を使う場合は，予めディレクトリ code にて ant を実行し，code/Solver.jar を生成してください。
+To use "Auto" mode (an automatic puzzle solver), run [Apache Ant](http://ant.apache.org) in the `code` directory (to generate `code/Solver.jar`).
+
+`wolf_n_lamb.pde` をProcessing開発環境で開き，実行してください。
+
+Processing 3 では，minim ライブラリを手で追加する必要があります (「スケッチ」メニューの「ライブラリをインポート...」を選んでください) 。  
+自動求解機能 (Auto mode) を使う場合は，予めディレクトリ `code` にて [Apache Ant](http://ant.apache.org) を実行し，`code/Solver.jar` を生成してください。
 
 ## Credits
+* https://www.processing.org
 * Picture of the lamb & turf:
 ["Spring Lamb"](http://foter.com/photo/spring-lamb/) by
 EssjayNZ / Foter /
