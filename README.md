@@ -1,4 +1,4 @@
-# Wolfs & Lambs
+# Wolves & Lambs
 
 <a href="https://www.youtube.com/watch?v=zvdJuO54wqA"><img
    src="http://img.youtube.com/vi/zvdJuO54wqA/mqdefault.jpg" width="320" alt="Demo movie of this program"></a>
