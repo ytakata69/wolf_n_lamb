@@ -1,7 +1,7 @@
 # Wolves & Lambs
 
 <a href="https://www.youtube.com/watch?v=zvdJuO54wqA"><img
-   src="http://img.youtube.com/vi/zvdJuO54wqA/mqdefault.jpg" width="320" alt="Demo movie of this program"></a>
+   src="https://raw.github.com/wiki/ytakata69/wolf_n_lamb/demo.jpg" width="320" alt="Demo movie of this program"></a>
 
 A program for playing a classic river-crossing puzzle, implemented in [Processing](https://www.processing.org).
 
